@@ -6,8 +6,8 @@
 Expected output:
 Server listening on port 8080...
  
- Run the Client (in new/split terminal):                                                                                                                                                                              
-docker-compose run client
+ Run the Client (in new/split terminal):                                                                                                                                                                              docker-compose run client
+
 Expected output:
 Connected to server!                                                                                                                                                                                                   
 Enter message to send to server (or 'EXIT' to quit):
