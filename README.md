@@ -12,11 +12,12 @@ Expected output:
 Connected to server!                                                                                                                                                                                                   
 Enter message to send to server (or 'EXIT' to quit):
  
- Chat Interaction                                                                                                                                                                                                      
+ Chat Interaction:                                                                                                                                                                                                      
 Type messages in the client terminal → seen in server.                                                                                                                                                                 
 Type messages in the server terminal → seen in client.                                                                                                                                                                 
 Type EXIT to close the chat gracefully.                                                                                                                                                                                
 
-Stop and clean up                                                                                                                                                                                                      
+Stop and clean up:                                                                                                                                                                                                      
 docker-compose down
-This releases all containers and ports.
+
+(This releases all containers and ports.)
