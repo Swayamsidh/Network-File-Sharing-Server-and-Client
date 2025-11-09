@@ -2,7 +2,7 @@
  A client–server chat application implemented in C++ using socket programming and Docker. The project demonstrates bidirectional communication between two containers—one acting as a server and the other as a client—connected through a Docker network using docker-compose.
  
  Run the Server:
- docker-compose run --service-ports server
+ docker-compose run server
 Expected output:
 Server listening on port 8080...
  
